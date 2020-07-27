@@ -1,9 +1,9 @@
- ** Create a function that takes two integers and checks if they are equal.
+ **Create a function that takes two integers and checks if they are equal.**
 
-Examples:
+**Examples:**
 
-isEqual(5, 6) ➞ false
+***isEqual(5, 6) ➞ false***
 
-isEqual(1, 1) ➞ true
+***isEqual(1, 1) ➞ true***
 
-isEqual(36, 35) ➞ false **
+***isEqual(36, 35) ➞ false***
