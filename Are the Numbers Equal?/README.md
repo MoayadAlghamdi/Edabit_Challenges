@@ -7,3 +7,7 @@
 ***isEqual(1, 1) ➞ true***
 
 ***isEqual(36, 35) ➞ false***
+***
+Level : Easy - Beginner
+
+Solving by java
