@@ -8,6 +8,5 @@
 
 ***isEqual(36, 35) ➞ false***
 ***
-Level : Easy - Beginner
 
 Solving by java
