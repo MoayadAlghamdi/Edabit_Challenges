@@ -13,6 +13,5 @@ isAvgWhole([1, 1, 1]) ➞ true
 
 isAvgWhole([9, 2, 2, 5]) ➞ false
 ***
-Level : Eazy - Advance
 
 Solving by java
