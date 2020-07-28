@@ -1,7 +1,7 @@
 **Create a method that takes an array of integers and returns a new array, sorted in ascending order (smallest to biggest).**
 
 
-*Sort integer array in ascending order.*
+- Sort integer array in ascending order.
 If the function's argument is null, an empty array, or undefined; return an empty array.
 Return a new array of sorted numbers.
 *
