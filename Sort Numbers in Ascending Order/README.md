@@ -17,6 +17,4 @@ sortNumsAscending(null) ➞ []
 sortNumsAscending([]) ➞ []
 ***
 
-Level : Easy - Advanced
-
 Solving by java
