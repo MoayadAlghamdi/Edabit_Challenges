@@ -2,9 +2,9 @@
 
 
 - Sort integer array in ascending order.
-If the function's argument is null, an empty array, or undefined; return an empty array.
-Return a new array of sorted numbers.
-*
+- If the function's argument is null, an empty array, or undefined; return an empty array.
+- Return a new array of sorted numbers.
+
 
 **Examples**
 ***
