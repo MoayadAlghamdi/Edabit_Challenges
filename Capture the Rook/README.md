@@ -11,6 +11,5 @@ canCapture(["H4", "H3"]) ➞ true
 
 canCapture(["F5", "C8"]) ➞ false
 ***
-Level : Easy - Intermediate
 
 Solving by java
